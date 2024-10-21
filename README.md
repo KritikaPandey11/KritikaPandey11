@@ -1,4 +1,4 @@
-- 👋 Hello everyone, I’m Kritika Pandey.
+- 👋 Hello, I’m Kritika Pandey.
 - 👀 I’m forever curious and constantly exploring the world of technology.
 - 🚀 Actively enhancing my skills on Python with a focus on crafting imapctful projects.
 - 🎯 I believe in growth through every line of code and every note of music.
